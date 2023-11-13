@@ -1,0 +1,20 @@
+.back{
+    background-image: url("../images/paisaje.jpg");
+    opacity: 0.5;
+}
+
+#inicio{
+    color: black;
+}
+
+#indice{
+    color: red;
+}
+.fondo {
+    background-image: url("../images/Anime.webp");
+    opacity: 0.7;
+
+
+}
+
+
